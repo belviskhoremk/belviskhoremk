@@ -1,5 +1,4 @@
 ## Hi there! 👋  
-<div align="center">
 
 I'm **Elvis**, an international student from **Togo** with a **BTech in AI** from India. I'm passionate about artificial intelligence, machine learning, and software development.  
 
@@ -10,6 +9,7 @@ I'm **Elvis**, an international student from **Togo** with a **BTech in AI** fro
 
 ⚡ Fun fact: I enjoy solving complex AI and coding problems and always look for ways to optimize models!  
 
+<div align="center">
 
 
 ## 🌐 Socials:
