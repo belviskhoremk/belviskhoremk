@@ -1,63 +1,164 @@
-## Hi there! 👋  
-
-I'm **Elvis**, an international student from **Togo** with a **BTech in AI** from India. I'm passionate about artificial intelligence, machine learning, and software development.  
-
-### 🚀 About Me  
-- 🔭 I am a **self-learner** and a **part-time freelancer** in AI and software development.  
-- 💼 Worked on multiple private projects for companies like **Amenity Technologies, Pahilabs**, and currently working as a **Consultant (Part-time) at ThinkPath LLP**.  
-- 💡 Open to research, projects, and collaborations in AI, ML, and data science.  
-
-⚡ Fun fact: I enjoy solving complex AI and coding problems and always look for ways to optimize models!  
-
-
-
-## 🌐 Socials:
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/belvisk12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kokou-elvis-khorem-blitti) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:belviskhoremk@gmail.com) 
+# Hi, I'm Elvis 👋
+
+### AI/ML Engineer · Published Researcher · CEO & Co-founder of BlitTech
+
+**Building intelligence at the edge.**
+
+[![Website](https://img.shields.io/badge/elvisblitti.com-0B1F3A?style=for-the-badge&logo=googlechrome&logoColor=2EC4B6)](https://elvisblitti.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E5EFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kokou-elvis-khorem-blitti)
+[![Email](https://img.shields.io/badge/Email-2EC4B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:belviskhoremk@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-0B1F3A?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/belvisk12)
 
 </div>
 
-# 💻 Tech Stack:
-<div align="center">
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-</div>
-
-# 📊 GitHub Stats:
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=belviskhoremk&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=belviskhoremk&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=belviskhoremk&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=belviskhoremk&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
-### ✍️ Random Dev Quote
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
-
-</div>
-
-### 🔝 Top Contributed Repo
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=belviskhoremk&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-</div>
 ---
+
+## 🧭 About Me
+
+I'm **Kokou Elvis Khorem Blitti**, an AI/ML engineer from **Lomé, Togo**, currently based in **Luxembourg** for my **Master's in Data Science at the University of Luxembourg**.
+
+I hold a **B.Tech in Artificial Intelligence** from Marwadi University (GPA 9.52/10), and I spend most of my time at the intersection of applied research and real products for underserved markets.
+
+- 🏢 **CEO & Co-founder of [BlitTech](https://blittech.com)**, building digital solutions for SMEs across Francophone West Africa
+- 📄 **6 published research papers**, including a **Springer** publication
+- 🌍 Working toward AI infrastructure for **Francophone West Africa**, with a focus on languages that global NLP still ignores: **Ewe, Mina, Fon, Kabiyè**
+- 🎓 Computer vision instructor for an **IOAI 2026** crash course (CNNs through GANs and diffusion models)
+- 🗣️ Francophone, working in French and English
+
+---
+
+## 🔬 What I Work On
+
+| Area | Focus |
+|---|---|
+| **LLM Systems** | RAG pipelines, multi-agent architectures, LLM reliability and hallucination detection |
+| **Speech & Language** | ASR and TTS for low-resource African languages |
+| **Healthcare AI** | Heart sound analysis, pneumonia detection from medical imaging |
+| **Product Engineering** | AI-powered SaaS for SMEs, automation workflows, full-stack deployment |
+
+---
+
+## 🚀 Featured Work
+
+### 💬 Contexta
+A **no-code AI chatbot platform** that lets SMEs in Togo, Bénin and Côte d'Ivoire deploy assistants trained on their own business knowledge.
+🔗 [contexta.blittech.com](https://contexta.blittech.com)
+
+### 🎬 BlitTech Motion *(in progress)*
+A subscription app that turns product photos, logos and brand colors into **branded animated social content** for SMEs. Template-driven motion generation with Remotion, priced in CFA with Mobile Money-native billing.
+
+### 🕵️ LieToMe *(Springer)*
+A **multi-agent hallucination detection system** that cross-examines LLM outputs to flag unreliable answers.
+
+### 🩺 Healthcare AI Research
+Deep learning models for **heart sound classification** and **pneumonia detection**, published as peer-reviewed research.
+
+### ⚙️ AI Content Automation
+An **n8n + Notion + Gemini** pipeline that drafts and manages LinkedIn content from a structured knowledge base.
+
+---
+
+## 📚 Publications
+
+- **LieToMe**: Multi-agent hallucination detection for LLMs (*Springer*)
+- Research on **heart sound analysis** with deep learning
+- Research on **pneumonia detection** from medical imaging
+- *...and 3 more papers across applied AI and healthcare*
+
+> Full list on my [website](https://elvisblitti.com) and [LinkedIn](https://linkedin.com/in/kokou-elvis-khorem-blitti).
+
+---
+
+## 💼 Experience
+
+- **CEO & Co-founder**, BlitTech *(2026 to present)*
+- **Python AI Developer (Freelance)**, Amenity Technologies *(2025 to 2026)*
+- **Consultant**, ThinkPath LLP
+- Private AI and software projects for **Pahilabs** and other clients
+
+---
+
+## 🛠️ Tech Stack
+
+**AI / ML**
+<p>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+</p>
+
+**Data**
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+</p>
+
+**Backend & Web**
+<p>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+</p>
+
+**Databases**
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
+</p>
+
+**Cloud & DevOps**
+<p>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+**Also:** C · C++ · LaTeX · Postman · Notion
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=belviskhoremk&icon=0&color=0)](https://visitcount.itsvg.in)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=belviskhoremk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1F3A&title_color=2EC4B6&icon_color=1E5EFF&text_color=E6EDF3" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belviskhoremk&layout=compact&hide_border=true&bg_color=0B1F3A&title_color=2EC4B6&text_color=E6EDF3" />
+
+<img src="https://streak-stats.demolab.com/?user=belviskhoremk&hide_border=true&background=0B1F3A&ring=2EC4B6&fire=1E5EFF&currStreakLabel=2EC4B6&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B9BB4&stroke=1E5EFF" />
 
 </div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to **research collaborations**, **AI for African languages**, and conversations with founders building for **Francophone West Africa**.
+
+<div align="center">
+
+**Building intelligence at the edge.** 🌍
+
+<img src="https://komarev.com/ghpvc/?username=belviskhoremk&color=1E5EFF&style=flat-square&label=Profile+Views" />
+
+</div>
