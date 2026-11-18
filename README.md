@@ -60,6 +60,21 @@ An **n8n + Notion + Gemini** pipeline that drafts and manages LinkedIn content f
 
 ---
 
+## 📂 Public Repositories
+
+| Repository | Description |
+|---|---|
+| [👓 glassesproject](https://github.com/belviskhoremk/glassesproject) | Voice-activated smart glasses that read books and describe surroundings for visually impaired users (YOLOv8, PaddleOCR, GPT) |
+| [🫁 pneumonia_project](https://github.com/belviskhoremk/pneumonia_project) | Pneumonia detection from chest X-rays with a MobileNet ensemble + Flask app |
+| [🔌 modelContextProtocol](https://github.com/belviskhoremk/modelContextProtocol) | Step-by-step MCP lessons: from manual tool use to multi-server chatbots with tools, resources and prompts |
+| [🧾 Talk-to-your-pdf](https://github.com/belviskhoremk/Talk-to-your-pdf) | Chat with any PDF: a RAG pipeline with LangChain, Chroma and Llama 3 |
+| [😃 Facial-Expression-Recognition](https://github.com/belviskhoremk/Facial-Expression-Recognition) | CNN classifying 7 facial expressions, with a web demo |
+| [🧠 ML_Notebooks](https://github.com/belviskhoremk/ML_Notebooks) | Documented notebooks on regression, regularization, bias-variance, PCA and K-means |
+| [🔍 AI_ALGORITHMS](https://github.com/belviskhoremk/AI_ALGORITHMS) | BFS, DFS, A\*, Water Jug and Tic-Tac-Toe in clean Python |
+| [🐍 PythonOOP](https://github.com/belviskhoremk/PythonOOP) | Six runnable lessons on object-oriented Python |
+
+---
+
 ## 📚 Publications
 
 - **LieToMe**: Multi-agent hallucination detection for LLMs (*Springer*)
